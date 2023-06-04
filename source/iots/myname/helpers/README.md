@@ -1,1 +1,1 @@
-# Package 📦 iots.myname.helpers
+# Package 📦 iot.myname.helpers
